@@ -4,8 +4,8 @@
 
 authe database 👤💾
 
-[![Testing docker build](https://github.com/radio-aktywne/authe-db/actions/workflows/docker-build.yml/badge.svg)](https://github.com/radio-aktywne/authe-db/actions/workflows/docker-build.yml)
-[![Deploying docs](https://github.com/radio-aktywne/authe-db/actions/workflows/docs.yml/badge.svg)](https://github.com/radio-aktywne/authe-db/actions/workflows/docs.yml)
+[![Build](https://github.com/radio-aktywne/authe-db/actions/workflows/build.yaml/badge.svg)](https://github.com/radio-aktywne/authe-db/actions/workflows/build.yaml)
+[![Docs](https://github.com/radio-aktywne/authe-db/actions/workflows/docs.yaml/badge.svg)](https://github.com/radio-aktywne/authe-db/actions/workflows/docs.yaml)
 
 </div>
 
@@ -13,7 +13,9 @@ authe database 👤💾
 
 This `README` provides info about the development process.
 
-For more info about `authe-db` itself see `authe-db/README.md` or [docs](https://radio-aktywne.github.io/authe-db).
+For more info about `authe-db` itself see
+[package `README`](authe-db/README.md) or
+[docs](https://radio-aktywne.github.io/authe-db).
 
 ## Quickstart
 
